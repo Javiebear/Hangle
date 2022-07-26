@@ -1,0 +1,36 @@
+@media (min-width: 560px) {
+
+  .game{
+    margin-right: 400px;
+    margin-left: 400px;
+
+    border-radius: 12px;
+    height: 100%;
+
+  }
+
+
+  .indvBox{
+    margin-left: 10px;
+  }
+
+  .GuessBox{
+    display: flex;
+    justify-content: center;
+  }
+
+  .navigation{
+    background-color: white;
+    text-align: center;
+    font-size: 40px;
+    
+  }
+
+
+  .refreshButton{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}

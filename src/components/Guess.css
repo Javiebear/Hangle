@@ -1,0 +1,29 @@
+.guessSquare {
+    height: 70px;
+    width: 70px;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+    color: Black;
+    background-color: White;
+    border: 1px solid Black;
+    padding: 0.5rem;
+    border-radius: 12px;
+    margin-left:5px;
+  }
+
+.guessSection{
+  margin-top: 20px;
+  color: Black;
+}
+
+.boxes{
+  padding-top: 50px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.colorChange{
+  color: white;
+}

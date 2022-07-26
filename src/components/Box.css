@@ -1,0 +1,14 @@
+@media (min-width: 70px) {
+  .square {
+    height: 70px;
+    width: 70px;
+    text-align: center;
+    font-size: 1rem;
+    background-color: #404040;
+    border: 1px solid white;
+    padding: 0.5rem;
+    margin-right: 10px;
+    border-radius: 12px;
+    font-weight: bold;
+  }
+}
